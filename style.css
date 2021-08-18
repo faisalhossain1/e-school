@@ -1,0 +1,118 @@
+.active{
+    font-weight: bold;
+}
+.sing-btn{
+    color: white;
+    background-color: #21B573;
+    padding: 12px 28px;
+    border-radius: 33px;
+    font-weight: bold;
+    border: none;
+    margin-top: -20px;
+    cursor: pointer;
+}
+.get-btn{
+    color: white;
+    background-color: #21B573;
+    padding: 12px 28px;
+    border-radius: 33px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+.image img{
+    width: 100%;
+}
+.top-area{
+    background-color: #F0FFF0;
+    height: 576px;
+    margin-bottom: 90px;
+}
+h5{
+    color: #FD511A;
+}
+.header-1{
+    font-weight: 700;
+    font-size: 48px;
+}
+p{
+    color: dimgray;
+    font-weight: 500;
+}
+span{
+    color: #21b573;
+}
+.card-dec{
+    border: none;
+    height: 270px;
+    margin-bottom: 120px;
+}
+.card-1{
+    background: #F8FFFB;
+    padding: 50px 20px;
+    border-radius: 15px;
+}
+.card-2{
+    box-shadow: 0px 20px 40px 0px #0000001A;
+    padding-top: 50px;
+    border-radius: 15px;
+}
+.card-dec img{
+    width: 66px;
+}
+.center-text{
+    text-align: center;
+}
+.course-card img{
+    padding: 20px 20px;
+}
+.courses .card{
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.courses{
+    margin-bottom: 130px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.co-ft{
+    width: 60px;
+}
+.courses .card .card-footer{
+    border-radius: 18px;
+}
+.test img{
+    width: 100px;
+    margin-left: 50px;
+}
+
+.testimonial{
+    margin-bottom: 120px;
+}
+
+.footer-article{
+    background: #282531;
+    height: 360px;
+}
+.footer-article ul li{
+    color: grey;
+    list-style: none;
+    font-weight: 600;
+}
+.speacial-li{
+    font-weight: bold;
+    color: white !important;
+}
+.footer-row{
+    padding: 50px 0 80px 0;
+}
+footer p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.footer-text{
+    margin-top: 30px;
+}
